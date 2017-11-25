@@ -1,10 +1,10 @@
-**M Usman Saeed** Software Engineer – iOS, Swift, Objective-C
-<itsusman.saeed@gmail.com>
-+923126042881
+**M Usman Saeed** Software Engineer – iOS, Swift, Objective-C  
+<itsusman.saeed@gmail.com>      
+      +923126042881    Mohlan WalMultan Road Lahore  
+LinkedIn Profile:
+<https://www.linkedin.com/in/usman-saeed-9774997b/>
 
-Mohlan Wal Multan Road Lahore
 
-LinkedIn Profile: <https://www.linkedin.com/in/usman-saeed-9774997b/>
 
 Summary
 

@@ -22,7 +22,7 @@ Summary
 ### **Work Experience / Career History**
 
 
-### [Sr. iOS Engineer at NexMeals](https://www.nexmeals.com) : Jan 2018 – June 2018
+### [Sr. iOS Engineer at NexMeals](https://www.nexmeals.com) : Jan 2018 – Currently Working
 
 * **NexMeals** – NexMeals is not just a food ordering app like "foodpanda" and "Zomato" but it also provide features like chat and inviting people and see their arrivals. NexMeals allows ordering different types of order like 'Takeout', 'Dine-In', 'Delivery', 'CurbSide' etc. You can invite people through NexMeals for lunch or dinner. You can also chat with your friends and share your memories and pictures of lunch and dinner with your friends. NexMeals helps you order from your favourite restaurant in your city with high quality service.  
 [https://itunes.apple.com/us/app/nexmeals/id1251864240?ls=1&mt=8]()

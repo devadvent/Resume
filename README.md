@@ -2,9 +2,7 @@
 <itsusman.saeed@gmail.com>      
       +923126042881    Mohlan WalMultan Road Lahore  
 LinkedIn Profile:
-<https://www.linkedin.com/in/usman-saeed-9774997b/>
-
-
+<https://www.linkedin.com/in/usman-saeed--9774997b/>
 
 Summary
 
@@ -14,35 +12,45 @@ Summary
 
 1. **Languages :** Objective-C, C, C++, and Swift
 2. **Databases :** SQLite 3, CoreData
-3. **Development Software :** Xcode
+3. **Development Software :** XCode
 4. **Integrations :** Google AdMob, Facebook, Twitter
 5. **Platforms :** macOS, iOS
-6. **Cloud services :** Parse, Firebase
-7. **Source Control :** GitHub, SourceTree
+6. **Cloud Services :** Parse, Firebase
+7. **Source Control :** GitHub, SourceTree, Tower
 8. **Project Management Tools :** JIRA, Redmine
 
 ### **Work Experience / Career History**
 
-### [iOS Developer at Trangolabs](http://trangolabs.com) : September 2014 – January 2017
 
-* **RepairDesk** – RepairDesk is a cloud POS for Mobile Phone Repair Shops. This application is designed for iOS, Android, web and desktop. This app has features such as creating tickets for device repair with customer information, updating tickets, scanning ticket from a barcode. Inventory and reporting are handled with their web version and Desktop version.
+### [Sr. iOS Engineer at NexMeals](https://www.nexmeals.com) : Jan 2018 – June 2018
+
+* **NexMeals** – NexMeals is not just a food ordering app like "foodpanda" and "Zomato" but it also provide features like chat and inviting people and see their arrivals. NexMeals allows ordering different types of order like 'Takeout', 'Dine-In', 'Delivery', 'CurbSide' etc. You can invite people through NexMeals for lunch or dinner. You can also chat with your friends and share your memories and pictures of lunch and dinner with your friends. NexMeals helps you order from your favourite restaurant in your city with high quality service.  
+[https://itunes.apple.com/us/app/nexmeals/id1251864240?ls=1&mt=8]()
+
+### [iOS Engineer at TxLabz](https://txlabz.com) : March 2017 – June 2017
+
+* **Rapporr** – Rapporr helps teams to get stuff done, structured around the demands of mobile teams to quickly and simply communicate from one easy to use secure business messaging app. You and your team can share files, rosters, provide updates; message 1:1, to a specific team or across your entire company. Easy, quick and simple to set up in minutes.  
+[https://itunes.apple.com/us/app/rapporr/id973794211?mt=8]()
+
+### [iOS Engineer at Trangolabs](http://trangolabs.com) : September 2014 – January 2017
+
+* **RepairDesk** – RepairDesk is a cloud POS for Mobile Phone Repair Shops. This application is designed for iOS, Android, web and desktop. This app has features such as creating tickets for device repair with customer information, updating tickets, scanning ticket from a barcode. Inventory and reporting are handled with their web version and Desktop version.   
 [https://itunes.apple.com/pk/app/repairdesk/id1230379477?mt=8]()
 
-* **MachoCafe** – Macho Cafe app helps to automate restaurant & cafe business: it allows users to see a per-second order progress. This application is designed for the iOS and Android platforms. This app has features such as placing order, updating order, order cancelation before and after in-progress etc. The inventory is handled with a web version to calculate the bills, stock, attendance of waiters etc.
-[https://itunes.apple.com/us/app/machocafe/id1068995117?ls=1&mt=8]()
+* **MachoCafe** – Macho Cafe app helps to automate restaurant & cafe business: it allows users to see a per-second order progress. This application is designed for the iOS and Android platforms. This app has features such as placing order, updating order, order cancelation before and after in-progress etc. The inventory is handled with a web version to calculate the bills, stock, attendance of waiters etc.  
+[https://itunes.apple.com/pk/app/machocafe/id1068995117?mt=8]()
 
-* **MachoCart** – MachoCart is a product for all retailers. Its all about shopping and getting orders from customers. Customers will be able to create their accounts and track the orders.
- [https://itunes.apple.com/us/app/machocart/id1117775101?ls=1&mt=8]()
+* **MachoCart** – MachoCart is a product for all retailers. Its all about shopping and getting orders from customers. Customers will be able to create their accounts and track the orders.  
+ [https://itunes.apple.com/pk/app/machocart/id1117775101?mt=8]()
 
-* **BloodDonor** - An application that allows to find the blood donors who are registered in this application. It is easy to find the nearby blood banks in your area or other cities by using this application. This application also helps to communicate with the blood donors by calling them using their contact numbers.
-[https://itunes.apple.com/us/app/donorpk/id1120078156?mt=8]()
+* **BloodDonor** - An application that allows to find the blood donors who are registered in this application. It is easy to find the nearby blood banks in your area or other cities by using this application. This application also helps to communicate with the blood donors by calling them using their contact numbers.  
+[https://itunes.apple.com/pk/app/donorpk/id1120078156?mt=8]()
 
 * **Fitness App** - An iOS application to keep track of your daily exercises. It takes the daily intake and calculates the exercise required to keep you healthy. Manages all records online and alerts you with the physical status.
 
 * **Cars Guide** - This app is a car catalog and a car selling application. It provides plenty of material related to cars, prices and specifications. Latest car catalog and comparison app. Anyone can search, sell, purchase cars using this app. It also has a functionality of posting car details based on location, search cars based on prices, mileage, make and year.
 
-* **IGaauge** - iGaauge is a maintenance tool for your car. It keeps track of your vehicle's data including fuel, last maintenance time and allows you to book a maintenance at nearby workshop. It is available on both iOS and Android using cross platform. It is built using customised plug-ins for PhoneGap.
-
+* **IGaauge** - iGaauge is a maintenance tool for your car. It keeps track of your vehicle's data including fuel, last maintenance time and allows you to book a maintenance at nearby workshop. It is available on both iOS and Android using cross platform. It is built using customised plug-ins for PhoneGap.  
 [https://itunes.apple.com/us/app/igaauge/id338232912?mt=8]()
 
 * **Social Club Event Rewards (MeccaBingo)** - This application helps clubs to promote their services and interact their members to be in touch with the promotions and the events in the club.
@@ -64,12 +72,12 @@ The following are the main modules in the application: Items Management, Clients
 
 * **Carrefour** - Carrefour is designed and developed both for iOS and Android. This app is developed for storekeeper's clients to make billing easier and faster by just scanning barcode of items.
 
-### [iOS Developer at DevBatch](https://www.devbatch.com) : September 2013
+### [iOS Engineer at DevBatch](https://www.devbatch.com) :   June 2013 – September 2013
 
-* **Zoo Quiz** - It is a game for kids to make them learn the sounds and images of animals and birds in an entertaining manner. Test your knowledge of Animals and Birds Sounds. This app is about knowing different animals and birds and learning about their sounds (100+ domestic and wild Animals and Birds). Let's see if you can become George of the Jungle!
+* **Zoo Quiz** - It is a game for kids to make them learn the sounds and images of animals and birds in an entertaining manner. Test your knowledge of Animals and Birds Sounds. This app is about knowing different animals and birds and learning about their sounds (100+ domestic and wild Animals and Birds). Let's see if you can become George of the Jungle!  
 [https://itunes.apple.com/us/app/zoo-quiz-game/id695589209?mt=8]()
 
-* **Historical Sounds Play Free** - It is a game for kids to make them learn the sounds and images of historical personalities and events in an entertaining manner. Test your knowledge of history. This app is about knowing different historical events/personalities and learning. Let's see how many voices you can guess!
+* **Historical Sounds Play Free** - It is a game for kids to make them learn the sounds and images of historical personalities and events in an entertaining manner. Test your knowledge of history. This app is about knowing different historical events/personalities and learning. Let's see how many voices you can guess!   
 [https://itunes.apple.com/pk/app/historical-sounds-play-free/id725538920?mt=8]()
 
 ### **Education**

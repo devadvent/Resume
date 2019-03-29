@@ -1,6 +1,6 @@
-**M Usman Saeed** Software Engineer – iOS, Swift, Objective-C  
+**M Usman Saeed :** Software Engineer – iOS, Swift, Objective-C  
 <itsusman.saeed@gmail.com>      
-      +923126042881    Mohlan WalMultan Road Lahore  
++923126042881    Mohlan WalMultan Road, Lahore  
 LinkedIn Profile:
 <https://www.linkedin.com/in/usman-saeed--9774997b/>
 
@@ -10,22 +10,73 @@ Summary
 
 ### **Technical Skills**
 
-1. **Languages :** Objective-C, C, C++, and Swift
-2. **Databases :** SQLite 3, CoreData
-3. **Development Software :** XCode
-4. **Integrations :** Google AdMob, Facebook, Twitter
-5. **Platforms :** macOS, iOS
+1. **Languages :** Swift, Objective-C, C, C++ 
+2. **Databases :** CoreData, SQLite 3
+3. **Development Tools :** XCode, Testflight
+4. **Integrations :** Google AdMob, GoogleMaps / GooglePlaces, Facebook, Twitter
+5. **Platforms :** MacOS, iOS
 6. **Cloud Services :** Parse, Firebase
-7. **Source Control :** GitHub, SourceTree, Tower
-8. **Project Management Tools :** JIRA, Redmine
+7. **Real Time Communication :** Socket Based Communication
+8. **Source Control :** GitHub, BitBucket, SourceTree, Tower
+9. **Project Management Tools :** JIRA, Redmine, Asana
 
 ### **Work Experience / Career History**
 
+### [Sr. iOS Engineer at Narsun](https://www.nexmeals.com) : Nov 2018 – Currently Working
 
-### [Sr. iOS Engineer at NexMeals](https://www.nexmeals.com) : Jan 2018 – Currently Working
+* **ZhizDeals** – Businesses worldwide are signing up with ZhizDeals for FREE!  Whether you’re looking for a great deal to
+redeem or a place to eat, or even a place to go, ZhizDeals is your local guide for creating an user friendly
+experience to find deals using augmented reality.  You can check out if your favorite local business have
+deals that are not advertised storefront!  ZhizDeals app is available for iPhone format.
+
+	ZhizDeals features:
+	
+
+	* Deals Near You – Find Deals
+	* Find the newest and hottest businesses in your area through our AR feature or Map search.
+	* Check out current redeem deals for businesses.
+	* Filter businesses by zip code, name, and deals.
+	* Get business info and hours of operation.
+	* See pictures of the business and explore through augmented reality before entering.
+
+	[https://itunes.apple.com/us/app/zhizdeals/id1336432184?mt=8]()
+ 
+
+### [Sr. iOS Engineer at NexMeals](https://www.nexmeals.com) : Jan 2018 – Oct 2018
+
+* **NexMeals Restaurant** – NexMeals Restaurant  is another fine product by 'Nexmeals' to manage restaurant side orders and reservations flow. Restaurant NexMeals Restaurant. This app is designed for both iPhone & iPad, It will help restaurant owners and managers to manage user orders placed from nexmeals user app. Restaurant owner & manager can also place, update the order and even reorder any previous order on behalf of their regular customers so customer can track their order. Restaurant owner and manager can place dine-in, takeout, delivery and curb-side orders.  App also show the daily, weakly and monthly order states in graphs.
+
+1. 	Menu Management 
+	* 	Restaurant managers can manage menu categories, subcategories and Items
+	* 	Show ingredients, descriptions, and cooking instructions 
+	* 	Add costs and recipes at the menu item level
+
+2. Inventory Management 
+	* 	 Assign inventory level alerts
+	* 	Inventory subtractions based on item sales and recipes
+	* 	Search and filters on categories and subcategories for easy lookup
+
+3. Reservations
+	* Restaurant owner and manager can reserve a table for their customers, specify number of guests, time and date.
+	* Assign waiter to the reservation.
+	* Separate views for breakfast, lunch and dinner. 
+	* Update reservation status.
+
+4. Floor & Table Management
+	* Restaurant owner and manager can design the floor and add tables with visual tool.
+	* Select tables from variety of seating and layouts.
+	* Can add and assign waiter to tables.	
+ 
+ 
+
+	[https://itunes.apple.com/us/app/nexmeals-point-of-sale-pos/id1439424358]()
+
 
 * **NexMeals** – NexMeals is not just a food ordering app like "foodpanda" and "Zomato" but it also provide features like chat and inviting people and see their arrivals. NexMeals allows ordering different types of order like 'Takeout', 'Dine-In', 'Delivery', 'CurbSide' etc. You can invite people through NexMeals for lunch or dinner. You can also chat with your friends and share your memories and pictures of lunch and dinner with your friends. NexMeals helps you order from your favourite restaurant in your city with high quality service.  
 [https://itunes.apple.com/us/app/nexmeals/id1251864240?ls=1&mt=8]()
+
+
+
 
 ### [iOS Engineer at TxLabz](https://txlabz.com) : March 2017 – June 2017
 

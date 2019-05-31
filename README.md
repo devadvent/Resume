@@ -1,12 +1,12 @@
 **M Usman Saeed :** Software Engineer – iOS, Swift, Objective-C  
 <itsusman.saeed@gmail.com>      
-+923126042881    Mohlan WalMultan Road, Lahore  
++923126042881, +923176450392  Mohlan Wal Multan Road, Lahore  
 LinkedIn Profile:
 <https://www.linkedin.com/in/usman-saeed--9774997b/>
 
 Summary
 
-> Results-oriented software developer professional with two and a half years experience in iOS application development positions. I make it my goal to create mobile apps with a user in mind, creating applications with a useable user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I constantly strive to learn new technologies and look for ways to advance myself in this rapidly changing industry.
+> Results-oriented software developer professional with 4 plus years of experience in iOS application development. I make it my goal to create mobile apps with a user in mind, creating applications with a useable user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I constantly strive to learn new technologies and look for ways to advance myself in this rapidly changing industry.
 
 ### **Technical Skills**
 
@@ -16,7 +16,7 @@ Summary
 4. **Integrations :** Google AdMob, GoogleMaps / GooglePlaces, Facebook, Twitter
 5. **Platforms :** MacOS, iOS
 6. **Cloud Services :** Parse, Firebase
-7. **Real Time Communication :** Socket Based Communication
+7. **Real Time Communication :** SocketIO, ActionCable
 8. **Source Control :** GitHub, BitBucket, SourceTree, Tower
 9. **Project Management Tools :** JIRA, Redmine, Asana
 
@@ -30,52 +30,24 @@ experience to find deals using augmented reality.  You can check out if your fav
 deals that are not advertised storefront!  ZhizDeals app is available for iPhone format.
 
 	ZhizDeals features:
-	
-
 	* Deals Near You – Find Deals
 	* Find the newest and hottest businesses in your area through our AR feature or Map search.
 	* Check out current redeem deals for businesses.
 	* Filter businesses by zip code, name, and deals.
 	* Get business info and hours of operation.
-	* See pictures of the business and explore through augmented reality before entering.
-
-	[https://itunes.apple.com/us/app/zhizdeals/id1336432184?mt=8]()
+	* See pictures of the business and explore through augmented reality before entering.  
+	
+ [https://itunes.apple.com/us/app/zhizdeals/id1336432184?mt=8]()
  
 
 ### [Sr. iOS Engineer at NexMeals](https://www.nexmeals.com) : Jan 2018 – Oct 2018
 
-* **NexMeals Restaurant** – NexMeals Restaurant  is another fine product by 'Nexmeals' to manage restaurant side orders and reservations flow. Restaurant NexMeals Restaurant. This app is designed for both iPhone & iPad, It will help restaurant owners and managers to manage user orders placed from nexmeals user app. Restaurant owner & manager can also place, update the order and even reorder any previous order on behalf of their regular customers so customer can track their order. Restaurant owner and manager can place dine-in, takeout, delivery and curb-side orders.  App also show the daily, weakly and monthly order states in graphs.
-
-1. 	Menu Management 
-	* 	Restaurant managers can manage menu categories, subcategories and Items
-	* 	Show ingredients, descriptions, and cooking instructions 
-	* 	Add costs and recipes at the menu item level
-
-2. Inventory Management 
-	* 	 Assign inventory level alerts
-	* 	Inventory subtractions based on item sales and recipes
-	* 	Search and filters on categories and subcategories for easy lookup
-
-3. Reservations
-	* Restaurant owner and manager can reserve a table for their customers, specify number of guests, time and date.
-	* Assign waiter to the reservation.
-	* Separate views for breakfast, lunch and dinner. 
-	* Update reservation status.
-
-4. Floor & Table Management
-	* Restaurant owner and manager can design the floor and add tables with visual tool.
-	* Select tables from variety of seating and layouts.
-	* Can add and assign waiter to tables.	
- 
- 
-
-	[https://itunes.apple.com/us/app/nexmeals-point-of-sale-pos/id1439424358]()
+* **NexMeals Restaurant** – NexMeals Restaurant is another fine product by 'Nexmeals' to manage restaurant side orders and reservations flow. This app is designed for both iPhone & iPad, It will help restaurant owners and managers to manage user orders placed from 'Nexmeals' user app. Restaurant owner & manager can also place and update the order and even reorder any previous order on behalf of their regular customers so customer can track their orders. Restaurant owner and manager can place Dine-In, Takeout, Delivery and Curb-Side orders. App also show the daily, weakly and monthly order states in graphs. App also provide features like Menu Management, Inventory Management, Reservations, Floor & Table Management.  
+[https://itunes.apple.com/us/app/nexmeals-point-of-sale-pos/id1439424358]()
 
 
 * **NexMeals** – NexMeals is not just a food ordering app like "foodpanda" and "Zomato" but it also provide features like chat and inviting people and see their arrivals. NexMeals allows ordering different types of order like 'Takeout', 'Dine-In', 'Delivery', 'CurbSide' etc. You can invite people through NexMeals for lunch or dinner. You can also chat with your friends and share your memories and pictures of lunch and dinner with your friends. NexMeals helps you order from your favourite restaurant in your city with high quality service.  
 [https://itunes.apple.com/us/app/nexmeals/id1251864240?ls=1&mt=8]()
-
-
 
 
 ### [iOS Engineer at TxLabz](https://txlabz.com) : March 2017 – June 2017
@@ -101,8 +73,8 @@ deals that are not advertised storefront!  ZhizDeals app is available for iPhone
 
 * **Cars Guide** - This app is a car catalog and a car selling application. It provides plenty of material related to cars, prices and specifications. Latest car catalog and comparison app. Anyone can search, sell, purchase cars using this app. It also has a functionality of posting car details based on location, search cars based on prices, mileage, make and year.
 
-* **IGaauge** - iGaauge is a maintenance tool for your car. It keeps track of your vehicle's data including fuel, last maintenance time and allows you to book a maintenance at nearby workshop. It is available on both iOS and Android using cross platform. It is built using customised plug-ins for PhoneGap.  
-[https://itunes.apple.com/us/app/igaauge/id338232912?mt=8]()
+* **IGaauge** - iGaauge is a maintenance tool for your car. It keeps track of your vehicle's data including fuel, last maintenance time and allows you to book a maintenance at nearby workshop.  
+ [https://itunes.apple.com/us/app/igaauge/id338232912?mt=8]()
 
 * **Social Club Event Rewards (MeccaBingo)** - This application helps clubs to promote their services and interact their members to be in touch with the promotions and the events in the club.
 Different games are provided and events are created from a server for the members. Members can plan and subscribe to different events and games to earn points.

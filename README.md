@@ -14,8 +14,8 @@ Summary
 2. **Databases :** CoreData, SQLite 3
 3. **Development Tools :** XCode, Testflight
 4. **Integrations :** Google AdMob, GoogleMaps / GooglePlaces, Facebook, Twitter
-5. **Platforms :** MacOS, iOS
-6. **Cloud Services :** Parse, Firebase
+5. **Platforms :** iOS, MacOS
+6. **Cloud Services :** AWS, Microsoft Azure, Parse, Firebase
 7. **Real Time Communication :** SocketIO, ActionCable
 8. **Source Control :** GitHub, BitBucket, SourceTree, Tower
 9. **Project Management Tools :** JIRA, Redmine, Asana
@@ -23,6 +23,10 @@ Summary
 ### **Work Experience / Career History**
 
 ### [Sr. iOS Engineer at Narsun](https://www.nexmeals.com) : Nov 2018 – Currently Working
+
+
+* **EzDealz** – EzDealz is a very unique gaming application designed and developed for a TV Show 'EzJeet'. User can easily win instant prizes, cash and even discount deals on their favorite brands by just answering daily and weekly fun questions, guessing simple numeric codes and by solving riddles.  
+[https://itunes.apple.com/pk/app/ezdealz/id1326479192]() 
 
 * **ZhizDeals** – Businesses worldwide are signing up with ZhizDeals for FREE!  Whether you’re looking for a great deal to
 redeem or a place to eat, or even a place to go, ZhizDeals is your local guide for creating an user friendly
@@ -37,8 +41,10 @@ deals that are not advertised storefront!  ZhizDeals app is available for iPhone
 	* Get business info and hours of operation.
 	* See pictures of the business and explore through augmented reality before entering.  
 	
- [https://itunes.apple.com/us/app/zhizdeals/id1336432184?mt=8]()
- 
+ [https://itunes.apple.com/us/app/zhizdeals/id1336432184?mt=8]() 
+
+* **Quartrly** – Quartrly is a video calling and call scheduling app with celebrities, professors, doctors etc. The basic idea is that celebrities will make them themselves available for their followers so that the followers can book their favorite celebrities time slots. App offers two types of calling features user make a direct call or celebrities will make quaters from their free time on the app and let their followers allow to book those quaters. User can also make list of their favorite celebrities or professors.
+
 
 ### [Sr. iOS Engineer at NexMeals](https://www.nexmeals.com) : Jan 2018 – Oct 2018
 

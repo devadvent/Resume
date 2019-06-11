@@ -1,31 +1,31 @@
 **M Usman Saeed :** Software Engineer – iOS, Swift, Objective-C  
 <itsusman.saeed@gmail.com>      
-+923126042881, +923176450392  Mohlan Wal Multan Road, Lahore  
++923126042881  Mohlan Wal Multan Road, Lahore  
 LinkedIn Profile:
 <https://www.linkedin.com/in/usman-saeed--9774997b/>
 
 Summary
 
-> Results-oriented software developer professional with 4 plus years of experience in iOS application development. I make it my goal to create mobile apps with a user in mind, creating applications with a useable user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I constantly strive to learn new technologies and look for ways to advance myself in this rapidly changing industry.
+> Results-oriented software engineer professional with 4 plus years of experience in iOS application development. I make it my goal to create mobile apps with a user in mind, creating applications with an easy to use user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I constantly strive to learn new technologies and look for ways to advance myself in this rapidly changing industry.
 
 ### **Technical Skills**
 
 1. **Languages :** Swift, Objective-C, C, C++ 
 2. **Databases :** CoreData, SQLite 3
-3. **Development Tools :** XCode, Testflight
+3. **Development Tools :** XCode, Instruments, Testflight
 4. **Integrations :** Google AdMob, GoogleMaps / GooglePlaces, Facebook, Twitter
 5. **Platforms :** iOS, MacOS
 6. **Cloud Services :** AWS, Microsoft Azure, Parse, Firebase
 7. **Real Time Communication :** SocketIO, ActionCable
 8. **Source Control :** GitHub, BitBucket, SourceTree, Tower
-9. **Project Management Tools :** JIRA, Redmine, Asana
+9. **Project Management Tools :** JIRA, Redmine, Asana, Trello
 
 ### **Work Experience / Career History**
 
 ### [Sr. iOS Engineer at Narsun](https://www.nexmeals.com) : Nov 2018 – Currently Working
 
 
-* **EzDealz** – EzDealz is a very unique gaming application designed and developed for a TV Show 'EzJeet'. User can easily win instant prizes, cash and even discount deals on their favorite brands by just answering daily and weekly fun questions, guessing simple numeric codes and by solving riddles.  
+* **EzDealz** – EzDealz is a very unique gaming (Trivia) application designed and developed for a TV Show 'EzJeet'. User can easily win instant prizes, cash and even discount deals on their favorite brands by just answering daily and weekly fun questions, guessing simple numeric codes and by solving riddles.  
 [https://itunes.apple.com/pk/app/ezdealz/id1326479192](https://itunes.apple.com/pk/app/ezdealz/id1326479192) 
 
 * **ZhizDeals** – Businesses worldwide are signing up with ZhizDeals for FREE!  Whether you’re looking for a great deal to
@@ -33,17 +33,23 @@ redeem or a place to eat, or even a place to go, ZhizDeals is your local guide f
 experience to find deals using augmented reality.  You can check out if your favorite local business have
 deals that are not advertised storefront!  ZhizDeals app is available for iPhone format.
 
-	ZhizDeals features:
-	* Deals Near You – Find Deals
-	* Find the newest and hottest businesses in your area through our AR feature or Map search.
-	* Check out current redeem deals for businesses.
-	* Filter businesses by zip code, name, and deals.
-	* Get business info and hours of operation.
-	* See pictures of the business and explore through augmented reality before entering.  
-	
- [https://itunes.apple.com/us/app/zhizdeals/id1336432184?mt=8](https://itunes.apple.com/us/app/zhizdeals/id1336432184?mt=8) 
+	ZhizDeals features:  
+	1 ) Deals Near You – Find Deals.  
+	2 ) Find the newest and hottest businesses in your area through our AR feature or Map search.  
+	3 ) Check out current redeem deals for businesses.  
+	4 ) Filter businesses by zip code, name, and deals.  
+	5 ) Get business info and hours of operation.  
+	6 ) See pictures of the business and explore through augmented reality before entering.  
+	[https://itunes.apple.com/us/app/zhizdeals/id1336432184?mt=8](https://itunes.apple.com/us/app/zhizdeals/id1336432184?mt=8) 
 
 * **Quartrly** – Quartrly is a video calling and call scheduling app with celebrities, professors, doctors etc. The basic idea is that celebrities will make them themselves available for their followers so that the followers can book their favorite celebrities time slots. App offers two types of calling features user make a direct call or celebrities will make quaters from their free time on the app and let their followers allow to book those quaters. User can also make list of their favorite celebrities or professors.
+
+  ### **Maintenance Projects**
+
+* **WeCoach** – WeCoach is community app for players and coaches. App provide feachers of direct messaging between coaches and players, friend invites, group chat, fitness related articals and videos. WeCoach is motivating new generation for sports and give them a chance to learn from best of best coaches from around the globe.  
+ [https://itunes.apple.com/us/app/wecoach/id1444768597?mt=8](https://itunes.apple.com/us/app/wecoach/id1444768597?mt=8) 
+
+* **AdamsGroup** –  [Adams Group](https://adams-armaturen.de/wp/home) is a Valves making company, working from decades in this field. They have their plants installed in 56 countries. Adams Group mobile app is an online task assignment and tracking system for their workers and technicians. App is built for both iOS and Android.
 
 
 ### [Sr. iOS Engineer at NexMeals](https://www.nexmeals.com) : Jan 2018 – Oct 2018

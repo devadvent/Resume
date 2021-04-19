@@ -33,15 +33,9 @@ Summary
 * **NexMeals :** [https://itunes.apple.com/us/app/nexmeals/id1251864240?ls=1&mt=8](https://itunes.apple.com/us/app/nexmeals/id1251864240?ls=1&mt=8)
 
 
-<!-- <br/>
- 
-#### [iOS Engineer at TxLabz](https://txlabz.com) : March 2017 – June 2017
-
-
-* **Rapporr**  
-[https://itunes.apple.com/us/app/rapporr/id973794211?mt=8](https://itunes.apple.com/us/app/rapporr/id973794211?mt=8)-->
-
 #### [iOS Engineer at Trangolabs](http://trangolabs.com) : September 2014 – January 2017
+
+* **Rapporr :** [https://itunes.apple.com/us/app/rapporr/id973794211?mt=8](https://itunes.apple.com/us/app/rapporr/id973794211?mt=8)
 
 * **RepairDesk :** [https://itunes.apple.com/pk/app/repairdesk/id1230379477?mt=8](https://itunes.apple.com/pk/app/repairdesk/id1230379477?mt=8)
 
